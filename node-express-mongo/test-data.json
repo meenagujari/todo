@@ -1,0 +1,68 @@
+{
+  "todos": [
+    {
+      "title": "Learn Node.js",
+      "description": "Complete the Node.js tutorial and build a REST API",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2024-12-31",
+      "tags": ["learning", "backend", "javascript"]
+    },
+    {
+      "title": "Buy groceries",
+      "description": "Milk, bread, eggs, vegetables, and fruits",
+      "status": "pending",
+      "priority": "medium",
+      "dueDate": "2024-12-25",
+      "tags": ["personal", "shopping"]
+    },
+    {
+      "title": "Complete project presentation",
+      "description": "Prepare slides for the quarterly project review meeting",
+      "status": "pending",
+      "priority": "urgent",
+      "dueDate": "2024-12-20",
+      "tags": ["work", "presentation", "meeting"]
+    },
+    {
+      "title": "Exercise routine",
+      "description": "30 minutes cardio and 20 minutes strength training",
+      "status": "completed",
+      "priority": "medium",
+      "dueDate": "2024-12-15",
+      "tags": ["health", "fitness"]
+    },
+    {
+      "title": "Read React documentation",
+      "description": "Go through React hooks and advanced patterns",
+      "status": "pending",
+      "priority": "low",
+      "dueDate": "2025-01-15",
+      "tags": ["learning", "frontend", "react"]
+    },
+    {
+      "title": "Plan vacation",
+      "description": "Research destinations, book flights and hotels",
+      "status": "pending",
+      "priority": "medium",
+      "dueDate": "2025-02-01",
+      "tags": ["personal", "travel", "planning"]
+    },
+    {
+      "title": "Fix bug in login system",
+      "description": "Users unable to login with special characters in password",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2024-12-18",
+      "tags": ["work", "bug-fix", "security"]
+    },
+    {
+      "title": "Call dentist",
+      "description": "Schedule annual dental checkup",
+      "status": "pending",
+      "priority": "low",
+      "dueDate": "2025-01-30",
+      "tags": ["health", "appointment"]
+    }
+  ]
+} 
